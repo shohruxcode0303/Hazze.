@@ -1,0 +1,10 @@
+.stn {
+    width: 100%;
+    height: 800px;
+    background-image: url("https://preview.colorlib.com/theme/hazze/img/hero-bg.jpg");
+    background-repeat: no-repeat;
+}
+
+.box {
+    margin-left: 200px;
+}
